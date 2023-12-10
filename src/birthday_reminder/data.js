@@ -8,6 +8,14 @@ export const data = [
       "https://images.unsplash.com/photo-1600486913747-55e5470d6f40?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fG1hbnxlbnwwfHwwfHx8MA%3D%3D",
   },
   {
+    id: 2,
+    name: "Stephen Chandler",
+    age: "30",
+    date: "2023-12-12",
+    image:
+      "https://images.unsplash.com/photo-1600486913747-55e5470d6f40?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fG1hbnxlbnwwfHwwfHx8MA%3D%3D",
+  },
+  {
     id: 4,
     name: "Ruth Gordon",
     age: "28",
