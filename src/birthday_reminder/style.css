@@ -1,0 +1,10 @@
+body {
+  object-fit: contain;
+  background-image: url("https://www.sheknows.com/wp-content/uploads/2020/08/best-birthday-candles-amazon.jpg?resize=1024,768");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cont {
+  padding: 5px;
+  margin: 10px auto;
+}
